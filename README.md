@@ -33,10 +33,7 @@ In the project directory, you can run:
 
 ### `python n_puzzle.py`
 
-Then follow the prompts to:
-
-1. Choose your desired difficulty level (0-7) or provide a custom puzzle configuration.
-2. The program will compute the solution and display detailed performance statistics for each of the heuristics.
+Then follow the prompts to choose your desired difficulty level (0-7) or provide a custom puzzle configuration. The program will compute the solution and display detailed performance statistics for each of the heuristics.
 
 ## Future Enhancements
 
